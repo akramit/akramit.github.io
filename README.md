@@ -5,7 +5,7 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 ---
 
 ## Publications
-* On Alternation, VC-dimension and k-fold Union of Sets [EuroComb 2021] (with Jayalal Sarma )
+* On Alternation, VC-dimension and k-fold Union of Sets [EuroComb 2021] (with Jayalal Sarma ) \[[Slides](/Eurocomb21.pdf)\]
 * A. Roy et al., "Energy-efficient Data Centers and smart temperature control system with IoT sensing," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).
 * A. Roy et al., "Smart traffic & parking management using IoT," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).
 * J. Siddiquee et al., "Smart asthma attack prediction system using Internet of Things," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).
@@ -16,9 +16,9 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 ## Paper Presentation
 * Bipartite Perfect Matching as a Real Polynomial
 * The Complexity of Boolean Functions in Different Characteristics
-* An Elementary Construction of Constant-Degree Expanders [Slides]
+* An Elementary Construction of Constant-Degree Expanders \[[Slides](/Elementary_Expanders.pdf)\]
 * Testing Monotonocity
-* The Mystery of Negations [Slides]("Mystery_Of_Negations.pdf")
+* The Mystery of Negations \[[Slides](/Mystery_of_Negations.pdf)\]
 
 ---
 
@@ -32,8 +32,8 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 ---
 
 ## Reports
-* Mystery of Negations
-* Monotonocity Testing
+* Mystery of Negations \[[PDF](Report_Monotonicity-Testing.pdf)\]
+* Monotonocity Testing \[[PDF](/Report_Mystery-of-negations.pdf)\]
 
 ---
 
