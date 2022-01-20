@@ -18,7 +18,7 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 * The Complexity of Boolean Functions in Different Characteristics
 * An Elementary Construction of Constant-Degree Expanders [Slides]
 * Testing Monotonocity
-* The Mystery of Negations [Slides]
+* The Mystery of Negations [Slides]("Mystery_Of_Negations.pdf")
 
 ---
 
