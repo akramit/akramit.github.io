@@ -14,9 +14,9 @@ description: > # your text below (remove <br> elements if you don't need line br
  <br><br>
   <a "/res-resume.pdf" > Resume</a>
   <br>
-  <a href="mailto:amit.akr.roy@gmail.com">amit.akr.roy@gmail.com </a>
+  Email: <a href="mailto:amit.akr.roy@gmail.com">amit.akr.roy@gmail.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/amit-roy-iitm/">LinkedIn Profile</a>
+  Connect: <a href="https://www.linkedin.com/in/amit-roy-iitm/">LinkedIn</a>
   <br>
 
 theme: jekyll-theme-minimal
