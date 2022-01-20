@@ -5,7 +5,7 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 ---
 
 ## Publications
-* On Alternation, VC-dimension and k-fold Union of Sets [EuroComb 2021] (with Jayalal Sarma ) \[[Slides](/Slides/eurocomb.pdf)\]
+* On Alternation, VC-dimension and k-fold Union of Sets [EuroComb 2021] (with Jayalal Sarma ) \[[PDF](/Reports/eurocomb-vcd-union.pdf)\] \[[Slides](/Slides/eurocomb.pdf)\]
 * A. Roy et al., "Energy-efficient Data Centers and smart temperature control system with IoT sensing," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). \[[PDF](/Publications/smart-datacenter.pdf)\]
 * A. Roy et al., "Smart traffic & parking management using IoT," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). \[[PDF](/Publications/smart-traffic.pdf)\]
 * J. Siddiquee et al., "Smart asthma attack prediction system using Internet of Things," 2016 IEEE 7th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON).\[[PDF](/Publications/smart-asthma.pdf)\]
