@@ -21,7 +21,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Connect: <a href="https://www.linkedin.com/in/amit-roy-iitm/">LinkedIn</a>
   <br>
 
-theme: jekyll-theme-minimal
-#layout: single
+layout: single
 classes: wide
+theme: jekyll-theme-minimal
 ...
