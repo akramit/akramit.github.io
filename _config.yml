@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  <br>
  Research Scholar at IIT Madras 2018-2021
  <br><br>
- "Education:"
+ Education:\
   <br>
   MS (By Research) -IIT Madras 2021
   <br>
@@ -16,9 +16,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/Reports/res-resume.pdf" > Resume</a> ,
   <a href="/Reports/final-thesis.pdf" > MS Thesis </a>
   <br>
-  "Email:" <a href="mailto:amit.akr.roy@gmail.com">amit.akr.roy@gmail.com </a>
+  Email: <a href="mailto:amit.akr.roy@gmail.com">amit.akr.roy@gmail.com </a>
   <br>
-  "Connect:" <a href="https://www.linkedin.com/in/amit-roy-iitm/">LinkedIn</a>
+  Connect: <a href="https://www.linkedin.com/in/amit-roy-iitm/">LinkedIn</a>
   <br>
 
 theme: jekyll-theme-minimal
