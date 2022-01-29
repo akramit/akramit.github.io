@@ -1,5 +1,3 @@
----
-=======
 # New Bounds and Variants of VC Dimension of Boolean Function Classes
 
 Due to the connection of VC-dimension and sample complexity lower bounds,
@@ -21,4 +19,3 @@ We study VC-dimension of a single Boolean function, determine the hardness of co
 * **VC-dimension of Boolean function** We compute VC-dimension of Boolean functions such as Parity, Majority, Threshold(T hnk ), Monotone, k-slice, Symmetric function.
 * **Complexity of Computing** On the Complexity of Computing VC(f ), we proved that this problem is NP-hard and gave a characterization which puts the problem into
 * **Relation with other complexity measures** We gave a relation between certificate complexity and VC(f ) which establishes path with other complexity measures of a Boolean function ( Proposition 5.2.4).
->>>>>>> 19ae07cc97c7f66a24e9d441053606c4d3a46b63
