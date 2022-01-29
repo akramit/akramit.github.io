@@ -14,8 +14,9 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 ---
 
 ## Paper Presentation
-* Bipartite Perfect Matching as a Real Polynomial
-* The Complexity of Boolean Functions in Different Characteristics
+* On Alternation, VC-dimension and k-fold Union of Sets \[EuroComb21 Sept 2021\]
+* Bipartite Perfect Matching as a Real Polynomial \[Co-tMeet March 2020\]
+* The Complexity of Boolean Functions in Different Characteristics \[Co-tMeet July 2019\]
 * An Elementary Construction of Constant-Degree Expanders \[[Slides](/Slides/Elementary_Expanders.pdf)\]
 * Testing Monotonocity
 * The Mystery of Negations \[[Slides](/Slides/Mystery_of_Negations.pdf)\]
