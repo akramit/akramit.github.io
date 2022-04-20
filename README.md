@@ -46,5 +46,6 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 * Graphs, Structures and Algorithms - IMSc Chennai (Nov 2019)
 * Indo-US workshop on Pseudorandomness held at IISc Bangalore (July 2019)
 
-
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-64e7fcef-4da5-439f-b3ed-30c243700130"></div>
 ---
