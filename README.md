@@ -48,4 +48,6 @@ I am currently working as a Software Engineer at Cisco Systems India. I finished
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-64e7fcef-4da5-439f-b3ed-30c243700130"></div>
+
+<a href="https://info.flagcounter.com/0Nw5"><img src="https://s11.flagcounter.com/count2/0Nw5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ---
