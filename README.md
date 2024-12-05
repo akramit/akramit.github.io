@@ -1,3 +1,5 @@
+Outdated. Will update soon ...
+
 ## A Bit About Me
 
 I am currently working as a Software Engineer at Cisco Systems India. I finished my Masters  in Computer Science and Engineering  in 2021 from IIT Madras under the supervision of Prof. Jayalal Sarma. I am broadly interested in Combinatorics, Boolean functions Complexity, Circuit Complexity and Algorithms Analysis. For any discussion appurtenant to Master’s Admission at IIT, collaboration, choosing a research area/advisor etc or request for a copy of any published paper, please reach out to me.
