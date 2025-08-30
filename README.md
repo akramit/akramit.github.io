@@ -1,4 +1,4 @@
-New Page [here](https://kam.mff.cuni.cz/~amitroy/)
+
 
 Outdated.
 ## A Bit About Me
